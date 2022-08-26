@@ -1,4 +1,4 @@
-# tecCollege
+# TECcollege
 
 pages link..
-https://koe-stbs.github.io/tecCollege/html/
+https://sithubosann.github.io/-TECcollege/html/
